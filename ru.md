@@ -11,11 +11,12 @@
 
 - aiohttp, asyncio, Cerberus, FastAPI, Pydantic, CRUD, REST
 - Python, bash, Go (начальный уровень), С/С++ (понимание)
-- Docker, Podman
+- Docker, Podman, qemu, VirtualBox
 - etcd, RabbitMQ, Redis
 - Fedora Linux, RPM, systemd
 - DPI, firewall, IPS, VPN
 - SQLite, PostgreSQL
+- Bitbucket, Confluence, Jira
 
 # Ключевые навыки и опыт
 
@@ -163,8 +164,7 @@ _**МУП "Водоканал" Верхняя Пышма, автотранспо
 
 # Образование
 
-- 2006-2007: УГЛТУ, ЛМФ, "Автомобили и автомобильное хозяйство", инженер.
-- 2001-2006: УГЛТУ, ЛМФ, "Эксплуатация транспортных средств", бакалавр техники и технологии.
+- 2001-2007: УГЛТУ, ЛМФ, "Автомобили и автомобильное хозяйство", инженер.
 - 1991-2001: МУП СОШ №43 Екатеринбурга.
 
 # Дополнительно
