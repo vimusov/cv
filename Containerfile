@@ -4,6 +4,7 @@ RUN \
     set -eux \
     && pacman -Sy --noconfirm \
     && pacman -S --noconfirm \
+        just \
         pandoc-cli \
         texlive-bin \
         texlive-core \
@@ -13,5 +14,5 @@ RUN \
 WORKDIR /build
 VOLUME  /build
 
-COPY conv.sh /conv.sh
-ENTRYPOINT   /conv.sh
+ENTRYPOINT ["just"]
+CMD ["convert"]
